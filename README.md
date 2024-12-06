@@ -1,2 +1,2 @@
-# Video_To-Amine
+# Video-To-Amine
 your video to anime effect use
